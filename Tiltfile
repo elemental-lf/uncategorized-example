@@ -1,1 +1,1 @@
-k8s_yaml('deploy/secrets.yaml')
+k8s_yaml('secrets.yaml')
